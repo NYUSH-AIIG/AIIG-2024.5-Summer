@@ -1,4 +1,4 @@
-# AIIG-2024.6-Summer
+# AIIG-2024.5-Summer
 Summer events held by NYUSH AI Interest Group
 
 ## Google Drive
