@@ -5,7 +5,7 @@ Summer events held by NYUSH AI Interest Group
 https://drive.google.com/drive/folders/1MQT-ZDIn7MNfNfuD_IIYT6EUC2Rt8XZk?usp=sharing
 
 ## Schedule
-|Time|Type|Topic|Slides|Recording|Extra Resources|Speakers|
+|Date|Type|Topic|Slides|Recording|Extra Resources|Speakers|
 |:--|:--|:--|:--|:--|:--|:--|
 |5.31|Workshop|Kickstart: Intro to Machine Learning|[Slides](https://drive.google.com/drive/folders/1MQT-ZDIn7MNfNfuD_IIYT6EUC2Rt8XZk?usp=sharing)| \ | \ |Zifan (Eric) Zhao|
 |6.7|Seminar|Stable Diffusion & Diffusion Transformer|[SD Slides](https://docs.google.com/presentation/d/1M7XzWBgWMIO8endgtgEFB_rM-HR2CZMA9u6X61QaIqc/edit?usp=sharing), [DiT Slides](https://docs.google.com/presentation/d/1X3ga0n7ZaT34ue1L7-pQ7S226mvpr1n76KLwlZsRjnY/edit?usp=share_link)|[Recording](https://drive.google.com/file/d/1FoY_p_WEHMmI6lt06lnkrSrGZy8dOOPv/view?usp=sharing)| \ |Yuanhe (Ricercar) Guo, Yuliang (Michael) Kang|
