@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1MQT-ZDIn7MNfNfuD_IIYT6EUC2Rt8XZk?usp=sha
 ## Schedule
 |Date|Type|Topic|Slides|Recording|Extra Resources|Speakers|
 |:--|:--|:--|:--|:--|:--|:--|
-|5.31|Workshop|Kickstart: Intro to Machine Learning|[Slides](https://drive.google.com/drive/folders/1MQT-ZDIn7MNfNfuD_IIYT6EUC2Rt8XZk?usp=sharing)| \ | \ |Zifan (Eric) Zhao|
+|5.31|Workshop|Kickstart: Intro to Machine Learning|[Slides](https://drive.google.com/drive/folders/1MQT-ZDIn7MNfNfuD_IIYT6EUC2Rt8XZk?usp=sharing)| [Recording](https://www.youtube.com/watch?v=OkSow8ejX7E&t=353s) | \ |Zifan (Eric) Zhao|
 |6.7|Seminar|Stable Diffusion & Diffusion Transformer|[SD Slides](https://docs.google.com/presentation/d/1M7XzWBgWMIO8endgtgEFB_rM-HR2CZMA9u6X61QaIqc/edit?usp=sharing), [DiT Slides](https://docs.google.com/presentation/d/1X3ga0n7ZaT34ue1L7-pQ7S226mvpr1n76KLwlZsRjnY/edit?usp=share_link)|[Recording](https://drive.google.com/file/d/1FoY_p_WEHMmI6lt06lnkrSrGZy8dOOPv/view?usp=sharing)| \ |Yuanhe (Ricercar) Guo, Yuliang (Michael) Kang|
 |6.14|Workshop|LLM Workshop|[Slides](https://docs.google.com/presentation/d/1fhUVI-1PhZlqijIeIi6QNtE0dOd71lI6cN7inAn5nMo/edit?usp=sharing)|[Recording](https://drive.google.com/file/d/1DxPXw7oryM1xd9uQc2dvpTv7MghF9l-N/view?usp=sharing)| \ |Yufeng (Felix) Xu, Xin (Tony) Teng|
 |6.21|Seminar|NLP - What Are Tools & LLMs as Zero-shot Recommanders|[Tools Slides](https://docs.google.com/presentation/d/1j2uvwyWRQ30NyDfb1H8DxRa8Hxpm49_95uAYlKZ7li8/edit?usp=sharing), [Zero-shot Slides](https://docs.google.com/presentation/d/1iDwTovDghrWTZtQYjn4gPx-z_I9xEpyKyJX-yynI00Q/edit?usp=sharing)|[Recording](https://drive.google.com/file/d/1CUsc4qOLcrOyvUCgKBHngD7QEygTUKW3/view?usp=sharing)| \ |Yufeng (Felix) Xu, Xin (Tony) Teng|
